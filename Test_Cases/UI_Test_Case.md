@@ -21,7 +21,6 @@
 **Expected Result:**
 User is successfully logged in and redirected to the dashboard
 
-**Status:** Pass
 
 
 
