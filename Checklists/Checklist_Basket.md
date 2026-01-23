@@ -1,7 +1,5 @@
  #Basket / Cart Page – Checklist
 
-
-
 | ID | Check Item | Steps | Expected Result | Status | Comments |
 
 |----|-----------|-------|-----------------|--------|----------|
