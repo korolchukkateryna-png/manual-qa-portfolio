@@ -1,4 +1,4 @@
-&nbsp;#Basket / Cart Page – Checklist
+ #Basket / Cart Page – Checklist
 
 
 
@@ -29,6 +29,4 @@
 | B-11 | Checkout button | Click Checkout | User is redirected to Checkout page | | |
 
 | B-12 | Basket icon counter | Add product to basket | Basket counter updates correctly | | |
-
-
 
