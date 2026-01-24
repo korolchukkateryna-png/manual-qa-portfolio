@@ -1,20 +1,12 @@
 \#Test Plan — E-commerce Web Application
 
-
-
 \## 1. Introduction
-
-
 
 This document describes the test plan for an E-commerce web application.
 
 The purpose of testing is to verify that the core functionality of the online store works correctly and meets the specified requirements.
 
-
-
 ---
-
-
 
 \## 2. Test Objectives
 
@@ -30,15 +22,9 @@ The purpose of testing is to verify that the core functionality of the online st
 
 | TO-4 | Ensure stable user experience |
 
-
-
 ---
 
-
-
 \## 3. Scope of Testing
-
-
 
 \### 3.1 In Scope
 
@@ -57,8 +43,6 @@ The purpose of testing is to verify that the core functionality of the online st
 | S-5 | Shopping cart |
 
 | S-6 | Checkout process |
-
-
 
 \### 3.2 Out of Scope
 
@@ -92,11 +76,7 @@ The purpose of testing is to verify that the core functionality of the online st
 
 | TT-4 | Regression testing |
 
-
-
 ---
-
-
 
 \## 5. Test Environment
 
@@ -112,11 +92,7 @@ The purpose of testing is to verify that the core functionality of the online st
 
 | Network | Wi-Fi |
 
-
-
 ---
-
-
 
 \## 6. Entry Criteria
 
@@ -130,11 +106,7 @@ The purpose of testing is to verify that the core functionality of the online st
 
 | EC-3 | Requirements are provided |
 
-
-
 ---
-
-
 
 \## 7. Exit Criteria
 
@@ -148,11 +120,7 @@ The purpose of testing is to verify that the core functionality of the online st
 
 | XC-3 | Test results are documented |
 
-
-
 ---
-
-
 
 \## 8. Risks
 
@@ -166,11 +134,7 @@ The purpose of testing is to verify that the core functionality of the online st
 
 | R-3 | Unstable test environment | Low | Medium |
 
-
-
 ---
-
-
 
 \## 9. Test Deliverables
 
